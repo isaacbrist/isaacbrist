@@ -8,6 +8,8 @@ Solo Project: Survey Flash
 Built an app to provide surveys so businesses, nonprofits, and your local DND campaign can quickly obtain and track necessary data for ultimate productivity so “you can get back to your daily life in a flash!”. 
 Here is a link to the deployed web application: https://survey-flash.herokuapp.com/?#/home
 Technologies used: JavaScript, HTML, CSS, Postgres, SQL, Express, Node.js, React, Redux, Saga, Material UI, QR code API.
+
+
 <!--
 **isaacbrist/isaacbrist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
