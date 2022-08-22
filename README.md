@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+What are the similarities between a Doctor of Chiropractic, a stay-at-home parent, and a software engineer? All three require you to be a creative problem solver, multitasking guru, quick thinker, and mystery solver. A Chiropractor is required to hear your symptoms and discover what ails you. As a stay at home parent, it is imperative to be able to juggle conflicting, pressing demands. A software engineer must be able to take a complex problem or feature request and succinctly break that project down into actionable chunks. The best part of these similarities? I have held all of these positions, which makes me the ideal software engineer.
+
+### Past Projects
+
+Solo Project: Survey Flash
+Built an app to provide surveys so businesses, nonprofits, and your local DND campaign can quickly obtain and track necessary data for ultimate productivity so “you can get back to your daily life in a flash!”. 
+Here is a link to the deployed web application: https://survey-flash.herokuapp.com/?#/home
+Technologies used: JavaScript, HTML, CSS, Postgres, SQL, Express, Node.js, React, Redux, Saga, Material UI, QR code API.
 <!--
 **isaacbrist/isaacbrist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
